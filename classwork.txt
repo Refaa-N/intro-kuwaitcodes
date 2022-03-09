@@ -1,0 +1,10 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    String neme = "refaa" ;
+	    int favoritNumber= 55 ;
+	    String hobby="volleball" ;
+		System.out.println(" my neam is" + neme + favoritNumber + hobby);
+	}
+}
